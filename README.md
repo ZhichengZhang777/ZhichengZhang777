@@ -99,6 +99,22 @@ An intelligent agriculture platform integrating sensor data acquisition, backend
 - Embedded sensor integration
 - Data management and visualization
 
+### 🤖 AI Meeting Hub — Intelligent Meeting & Task Management
+
+**Python · Flask · LLM Agents · SQLite · SSE · Docker**
+
+An AI-powered meeting intelligence and task execution platform integrating structured meeting analysis, intelligent transcription correction, context-aware AI assistance, and collaborative task management.
+
+**Key Features**
+- **AI-Powered Meeting Analysis:** Transform TXT/DOCX meeting materials into structured summaries, decisions, risks, and actionable tasks using remote LLM agents.
+- **Intelligent Name Correction:** Developed a phonetic and context-aware name correction mechanism with multi-candidate matching, confidence-based decisions, and human-in-the-loop verification.
+- **Context-Aware AI Assistant:** Integrated a streaming conversational assistant that understands personal tasks and relevant meeting analysis, supporting multi-turn interactions.
+- **Task Management:** Implemented cross-meeting task aggregation, member assignments, completion tracking, and personalized task dashboards.
+- **Multi-Tenant RBAC:** Designed three-level role-based access control with team-level data isolation and administrative management.
+- **Engineering & Testing:** Implemented REST APIs, SSE streaming, responsive interfaces, Docker-based deployment configuration, and automated backend/frontend testing.
+
+**Highlights:** LLM Integration · Context Engineering · Phonetic Matching · Human-in-the-Loop · RBAC · Full-Stack Development
+
 ---
 
 ## 📊 GitHub Statistics
