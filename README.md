@@ -143,8 +143,8 @@ An AI-powered meeting intelligence and task execution platform integrating struc
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/YOUR_USERNAME
-- **Email:** YOUR_EMAIL
+- **GitHub:** https://github.com/ZhichengZhang777
+- **Email:** zhangzhicheng@stu.ynu.edu.cn
 - **Research:** Deep Learning & Multimodal Artificial Intelligence
 
 ---
