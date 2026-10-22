@@ -7,7 +7,7 @@
 
 *Exploring intelligent systems through research, algorithms, and engineering.*
 
-<img width="400" height="600" alt="张致诚-正装" src="https://github.com/user-attachments/assets/d2d2f1c5-1280-4bac-8857-401226417e6c" />
+<img width="200" height="300" alt="张致诚-正装" src="https://github.com/user-attachments/assets/d2d2f1c5-1280-4bac-8857-401226417e6c" />
 
 
 </div>
