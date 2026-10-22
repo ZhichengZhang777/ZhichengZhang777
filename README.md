@@ -7,7 +7,8 @@
 
 *Exploring intelligent systems through research, algorithms, and engineering.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views]<img width="1280" height="1792" alt="张致诚-正装" src="https://github.com/user-attachments/assets/d2d2f1c5-1280-4bac-8857-401226417e6c" />
+
 
 </div>
 
